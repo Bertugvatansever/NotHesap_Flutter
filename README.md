@@ -1,5 +1,15 @@
 # not_hesaplama
 
+
+![Ekran görüntüsü 2023-09-15 182045](https://github.com/Bertugvatansever/NotHesap_Flutter/assets/79909762/64352ee7-3158-40d1-adbc-0c7568b47ad6)
+
+
+
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
